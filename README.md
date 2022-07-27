@@ -1,2 +1,2 @@
 # Python learning projects
- A few of my firsst Python projects!
+ A few of my first Python projects!
